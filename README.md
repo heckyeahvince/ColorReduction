@@ -1,7 +1,5 @@
 # Color Reduction in OpenCV Android NDK 
 
-colorreduction-melvincabatuan created by Classroom for GitHub
-
 ## Warning
 
  Note the Gradle plugin is at the experimental stage. The Gradle API for the new component model is not final, which means it'll only work with a specific version of Gradle until the APIs are final.
@@ -174,31 +172,3 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/a1b5fe26314fb6b48a7df59405762236
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/colorreduction-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Videocapture:
-
-[![screenshot](screenshot_002.png)](https://youtu.be/MxdHAW-dNd0)
-
-"*The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.*" - Seymour Cray
